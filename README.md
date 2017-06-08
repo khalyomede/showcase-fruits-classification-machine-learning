@@ -31,5 +31,9 @@ If you have already your own server, just run the project and go to the public f
 ```bash
 php -S localhost:8000 -t public
 ```
+Then go check it out on your prefered web browser :
+```bash
+http://localhost:8000
+```
 
 Hope you enjoy !
