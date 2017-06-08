@@ -1,0 +1,16 @@
+{
+    "name": "khalyomede/php-ml",
+    "description": "PHP Machine Learning test",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+    	"php" : ">=5.3.0",
+        "php-ai/php-ml": "^0.4.1"
+    },
+    "autoload" : {
+    	"psr-4" : {
+    		"Khalyomede\\" : "src/"
+    	}
+    }
+}
